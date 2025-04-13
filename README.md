@@ -118,12 +118,12 @@ Get started in minutes with our one-click deployment options:
 
 1. **Clone the Repository:**
    ```bash
-   git clone git@github.com:HiEventsDev/hi.events.git
+   git clone git@github.com:garbagroove/events-management.git
    ```
 
 2. **Navigate to the Docker Directory:**
    ```bash
-   cd hi.events/docker/all-in-one
+   cd events-management/docker/all-in-one
    ```
 
 3. **Generate the `APP_KEY` and `JWT_SECRET`**

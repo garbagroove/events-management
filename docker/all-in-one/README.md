@@ -12,8 +12,8 @@ necessary [configurations for production](https://hi.events/docs/getting-started
 ### Step 1: Clone the Repository
 
 ```bash
-git clone git@github.com:HiEventsDev/hi.events.git
-cd hi.events/docker/all-in-one
+git clone git@github.com:garbagroove/events-management.git
+cd events-management/docker/all-in-one
 ```
 
 ### Step 2: Generate the `APP_KEY` and `JWT_SECRET`
