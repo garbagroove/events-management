@@ -29,8 +29,8 @@ export const PoweredByFooter = (props: React.DetailedHTMLProps<React.HTMLAttribu
                 {/* eslint-disable-next-line lingui/no-unlocalized-strings */}
                 <a href="https://hi.events?utm_source=app-powered-by-footer"
                    target="_blank"
-                   title={'Effortlessly manage events and sell tickets online with Hi.Events'}>
-                    Hi.Events
+                   title={'Effortlessly manage events and sell tickets online with Garba Groove'}>
+                    Garba Groove
                 </a> 🚀
             </div>
         </div>

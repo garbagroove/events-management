@@ -121,7 +121,7 @@ veuillez ouvrir une issue pour en discuter.
 ## ❓ FAQ
 
 Vous avez des questions ? Notre [documentation](https://hi.events/docs) a des réponses. Si vous ne trouvez pas ce que vous cherchez, n'hésitez pas à
-nous contacter à [hello@hi.events](mailto:hello@hi.events).
+nous contacter à [support@garbagroove.com](mailto:support@garbagroove.com).
 
 ## 📜 Licence
 

@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Hi.Events</title>
+        <title>Garba Groove</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -20,7 +20,7 @@
         <div class="mx-auto max-w-[43rem]">
             <div class="text-center">
                 <p class="text-lg font-medium leading-8 text-indigo-600/95">{{__('Congratulations 🎉')}} </p>
-                <h1 class="mt-3 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-black">If you're seeing this Hi.Events API is running</h1>
+                <h1 class="mt-3 text-[3.5rem] font-bold leading-[4rem] tracking-tight text-black">If you're seeing this Garba Groove API is running</h1>
             </div>
         </div>
     </section>

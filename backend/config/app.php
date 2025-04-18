@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Facade;
 use Illuminate\Support\ServiceProvider;
 
 return [
-    'name' => env('APP_NAME', 'Hi.Events'),
+    'name' => env('APP_NAME', 'Garba Groove'),
 
     'reset_password_token_expiry_in_min' => 15,
     'frontend_url' => env('APP_FRONTEND_URL', 'http://localhost'),
@@ -18,7 +18,7 @@ return [
     'disable_registration' => env('APP_DISABLE_REGISTRATION', false),
     'api_rate_limit_per_minute' => env('APP_API_RATE_LIMIT_PER_MINUTE', 180),
     'stripe_connect_account_type' => env('APP_STRIPE_CONNECT_ACCOUNT_TYPE', 'express'),
-    'platform_support_email' => env('APP_PLATFORM_SUPPORT_EMAIL', 'support@hi.events'),
+    'platform_support_email' => env('APP_PLATFORM_SUPPORT_EMAIL', 'support@garbagroove.com'),
 
     /**
      * The number of page views to batch before updating the database

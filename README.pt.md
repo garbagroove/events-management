@@ -122,7 +122,7 @@ abra uma issue para discuti-lo.
 ## ❓ FAQ
 
 Tem perguntas? Nossa [documentação](https://hi.events/docs) tem respostas. Se você não encontrar o que procura, sinta-se à vontade para
-nos contatar em [hello@hi.events](mailto:hello@hi.events).
+nos contatar em [support@garbagroove.com](mailto:support@garbagroove.com).
 
 ## 📜 Licença
 

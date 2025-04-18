@@ -120,7 +120,7 @@ abra un issue para discutirlo.
 ## ❓ FAQ
 
 ¿Tiene preguntas? Nuestra [documentación](https://hi.events/docs) tiene respuestas. Si no encuentra lo que busca, no dude en
-contactarnos en [hello@hi.events](mailto:hello@hi.events).
+contactarnos en [support@garbagroove.com](mailto:support@garbagroove.com).
 
 ## 📜 Licencia
 

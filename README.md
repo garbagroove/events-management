@@ -172,7 +172,7 @@ We welcome contributions from the community! Please see our [contributing guidel
 
 ## ❓ FAQ
 
-Have questions? Our [documentation](https://hi.events/docs?utm_source=gh-readme&utm_content=faq-docs-link) has answers. For additional support, contact us at [hello@hi.events](mailto:hello@hi.events).
+Have questions? Our [documentation](https://hi.events/docs?utm_source=gh-readme&utm_content=faq-docs-link) has answers. For additional support, contact us at [support@garbagroove.com](mailto:support@garbagroove.com).
 
 ## 📜 License
 

@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
-"Project-Id-Version: Hi.Events\n"
+"Project-Id-Version: Garba Groove\n"
 "Language: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
@@ -2377,8 +2377,8 @@ msgid "Go to event homepage"
 msgstr "Zur Event-Homepage"
 
 #: src/components/layouts/EventHomepage/EventNotAvailable/index.tsx:53
-msgid "Go to Hi.Events"
-msgstr "Gehe zu Hi.Events"
+msgid "Go to Garba Groove"
+msgstr "Gehe zu Garba Groove"
 
 #: src/components/common/ErrorDisplay/index.tsx:64
 msgid "Go to home page"
@@ -2433,22 +2433,22 @@ msgid "Hi {0} 👋"
 msgstr "Hallo {0} 👋"
 
 #: src/components/routes/account/ManageAccount/sections/PaymentSettings/index.tsx:43
-msgid "Hi.Events charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
-msgstr "Hi.Events erhebt Plattformgebühren zur Wartung und Verbesserung unserer Dienste. Diese Gebühren werden automatisch von jeder Transaktion abgezogen."
+msgid "Garba Groove charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
+msgstr "Garba Groove erhebt Plattformgebühren zur Wartung und Verbesserung unserer Dienste. Diese Gebühren werden automatisch von jeder Transaktion abgezogen."
 
 #: src/components/modals/CreateEventModal/index.tsx:131
 #: src/components/modals/DuplicateEventModal/index.tsx:79
 #: src/components/routes/event/Settings/Sections/EventDetailsForm/index.tsx:73
-msgid "Hi.Events Conference {0}"
-msgstr "Hi.Events-Konferenz {0}"
+msgid "Garba Groove Conference {0}"
+msgstr "Garba Groove-Konferenz {0}"
 
 #: src/components/routes/event/Settings/Sections/LocationSettings/index.tsx:117
-msgid "Hi.Events Conference Center"
-msgstr "Hi.Events Konferenzzentrum"
+msgid "Garba Groove Conference Center"
+msgstr "Garba Groove Konferenzzentrum"
 
 #: src/components/layouts/AuthLayout/index.tsx:131
-msgid "hi.events logo"
-msgstr "hi.events-Logo"
+msgid "Garba Groove logo"
+msgstr "Garba Groove-Logo"
 
 #: src/components/common/ProductsTable/SortableProduct/index.tsx:79
 msgid "Hidden from public view"
@@ -5717,12 +5717,12 @@ msgid "Welcome back{0} 👋"
 msgstr "Willkommen zurück{0} 👋"
 
 #: src/components/routes/auth/Register/index.tsx:67
-msgid "Welcome to Hi.Events 👋"
-msgstr "Willkommen bei Hi.Events 👋"
+msgid "Welcome to Garba Groove 👋"
+msgstr "Willkommen bei Garba Groove 👋"
 
 #: src/components/routes/welcome/index.tsx:125
-msgid "Welcome to Hi.Events, {0} 👋"
-msgstr "Willkommen bei Hi.Events, {0} 👋"
+msgid "Welcome to Garba Groove, {0} 👋"
+msgstr "Willkommen bei Garba Groove, {0} 👋"
 
 #: src/components/forms/ProductForm/index.tsx:242
 msgid "What are Tiered Products?"

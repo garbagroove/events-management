@@ -122,7 +122,7 @@ Wir begrüßen Beiträge, Vorschläge und Fehlerberichte! Bevor Sie ein neues Fe
 
 ## ❓ FAQ
 
-Haben Sie Fragen? Unsere [Dokumentation](https://hi.events/docs) hat Antworten. Wenn Sie nicht finden, wonach Sie suchen, können Sie uns gerne unter [hello@hi.events](mailto:hello@hi.events) kontaktieren.
+Haben Sie Fragen? Unsere [Dokumentation](https://hi.events/docs) hat Antworten. Wenn Sie nicht finden, wonach Sie suchen, können Sie uns gerne unter [support@garbagroove.com](mailto:support@garbagroove.com) kontaktieren.
 
 ## 📜 Lizenz
 

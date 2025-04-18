@@ -50,7 +50,7 @@ export const EventNotAvailable = () => {
                                 gradient={{from: 'purple', to: 'pink'}}
                                 className={classes.button}
                             >
-                                {t`Go to Hi.Events`}
+                                {t`Go to Garba Groove`}
                             </Button>
                         </Stack>
 

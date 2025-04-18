@@ -64,7 +64,7 @@ export const Register = () => {
     return (
         <>
             <header className={classes.header}>
-                <h2>{t`Welcome to Hi.Events 👋`}</h2>
+                <h2>{t`Welcome to Garba Groove 👋`}</h2>
                 <p>
                     <Trans>
                         Create an account or <NavLink to={'/auth/login'}>

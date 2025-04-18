@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
-"Project-Id-Version: Hi.Events\n"
+"Project-Id-Version: Garba Groove\n"
 "Language: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
@@ -2377,8 +2377,8 @@ msgid "Go to event homepage"
 msgstr "Ir a la página de inicio del evento"
 
 #: src/components/layouts/EventHomepage/EventNotAvailable/index.tsx:53
-msgid "Go to Hi.Events"
-msgstr "Ir a Hi.Events"
+msgid "Go to Garba Groove"
+msgstr "Ir a Garba Groove"
 
 #: src/components/common/ErrorDisplay/index.tsx:64
 msgid "Go to home page"
@@ -2433,21 +2433,21 @@ msgid "Hi {0} 👋"
 msgstr "Hola {0} 👋"
 
 #: src/components/routes/account/ManageAccount/sections/PaymentSettings/index.tsx:43
-msgid "Hi.Events charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
-msgstr "Hi.Events cobra tarifas de plataforma para mantener y mejorar nuestros servicios. Estas tarifas se deducen automáticamente de cada transacción."
+msgid "Garba Groove charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
+msgstr "Garba Groove cobra tarifas de plataforma para mantener y mejorar nuestros servicios. Estas tarifas se deducen automáticamente de cada transacción."
 
 #: src/components/modals/CreateEventModal/index.tsx:131
 #: src/components/modals/DuplicateEventModal/index.tsx:79
 #: src/components/routes/event/Settings/Sections/EventDetailsForm/index.tsx:73
-msgid "Hi.Events Conference {0}"
+msgid "Garba Groove Conference {0}"
 msgstr "Hola.Eventos Conferencia {0}"
 
 #: src/components/routes/event/Settings/Sections/LocationSettings/index.tsx:117
-msgid "Hi.Events Conference Center"
-msgstr "Centro de conferencias Hi.Events"
+msgid "Garba Groove Conference Center"
+msgstr "Centro de conferencias Garba Groove"
 
 #: src/components/layouts/AuthLayout/index.tsx:131
-msgid "hi.events logo"
+msgid "Garba Groove logo"
 msgstr "hola.eventos logo"
 
 #: src/components/common/ProductsTable/SortableProduct/index.tsx:79
@@ -5717,11 +5717,11 @@ msgid "Welcome back{0} 👋"
 msgstr "Bienvenido de nuevo{0} 👋"
 
 #: src/components/routes/auth/Register/index.tsx:67
-msgid "Welcome to Hi.Events 👋"
-msgstr "Bienvenido a Hi.Events 👋"
+msgid "Welcome to Garba Groove 👋"
+msgstr "Bienvenido a Garba Groove 👋"
 
 #: src/components/routes/welcome/index.tsx:125
-msgid "Welcome to Hi.Events, {0} 👋"
+msgid "Welcome to Garba Groove, {0} 👋"
 msgstr "Bienvenido a Hola.Eventos, {0} 👋"
 
 #: src/components/forms/ProductForm/index.tsx:242

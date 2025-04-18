@@ -117,7 +117,7 @@
 
 ## ❓ FAQ
 
-質問がありますか？[ドキュメント](https://hi.events/docs) に答えがあります。探しているものが見つからない場合は、[hello@hi.events](mailto:hello@hi.events) までお気軽にお問い合わせください。
+質問がありますか？[ドキュメント](https://hi.events/docs) に答えがあります。探しているものが見つからない場合は、[support@garbagroove.com](mailto:support@garbagroove.com) までお気軽にお問い合わせください。
 
 ## 📜 ライセンス
 

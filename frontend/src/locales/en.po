@@ -311,8 +311,8 @@ msgid "About"
 msgstr "About"
 
 #: src/components/common/GlobalMenu/index.tsx:25
-#~ msgid "About hi.events"
-#~ msgstr "About hi.events"
+#~ msgid "About Garba Groove"
+#~ msgstr "About Garba Groove"
 
 #: src/components/routes/account/ManageAccount/sections/PaymentSettings/index.tsx:211
 msgid "About Stripe Connect"
@@ -2602,8 +2602,8 @@ msgid "Go to event homepage"
 msgstr "Go to event homepage"
 
 #: src/components/layouts/EventHomepage/EventNotAvailable/index.tsx:53
-msgid "Go to Hi.Events"
-msgstr "Go to Hi.Events"
+msgid "Go to Garba Groove"
+msgstr "Go to Garba Groove"
 
 #: src/components/common/ErrorDisplay/index.tsx:64
 msgid "Go to home page"
@@ -2658,22 +2658,22 @@ msgid "Hi {0} 👋"
 msgstr "Hi {0} 👋"
 
 #: src/components/routes/account/ManageAccount/sections/PaymentSettings/index.tsx:43
-msgid "Hi.Events charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
-msgstr "Hi.Events charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
+msgid "Garba Groove charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
+msgstr "Garba Groove charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
 
 #: src/components/modals/CreateEventModal/index.tsx:131
 #: src/components/modals/DuplicateEventModal/index.tsx:79
 #: src/components/routes/event/Settings/Sections/EventDetailsForm/index.tsx:73
-msgid "Hi.Events Conference {0}"
-msgstr "Hi.Events Conference {0}"
+msgid "Garba Groove Conference {0}"
+msgstr "Garba Groove Conference {0}"
 
 #: src/components/routes/event/Settings/Sections/LocationSettings/index.tsx:117
-msgid "Hi.Events Conference Center"
-msgstr "Hi.Events Conference Center"
+msgid "Garba Groove Conference Center"
+msgstr "Garba Groove Conference Center"
 
 #: src/components/layouts/AuthLayout/index.tsx:131
-msgid "hi.events logo"
-msgstr "hi.events logo"
+msgid "Garba Groove logo"
+msgstr "Garba Groove logo"
 
 #: src/components/common/ProductsTable/SortableProduct/index.tsx:79
 msgid "Hidden from public view"
@@ -4230,12 +4230,12 @@ msgstr "Powered by"
 #~ msgstr "Powered By"
 
 #: src/components/layouts/EventHomepage/Footer/index.tsx:7
-#~ msgid "Powered by <0>Hi.Events</0> 👋"
-#~ msgstr "Powered by <0>Hi.Events</0> 👋"
+#~ msgid "Powered by <0>Garba Groove</0> 👋"
+#~ msgstr "Powered by <0>Garba Groove</0> 👋"
 
 #: src/components/common/EventDocumentHead/index.tsx:14
-#~ msgid "Powered By Hi.Events"
-#~ msgstr "Powered By Hi.Events"
+#~ msgid "Powered By Garba Groove"
+#~ msgstr "Powered By Garba Groove"
 
 #: src/components/forms/StripeCheckoutForm/index.tsx:137
 #~ msgid "Powered by Stripe"
@@ -6321,12 +6321,12 @@ msgid "Welcome back{0} 👋"
 msgstr "Welcome back{0} 👋"
 
 #: src/components/routes/auth/Register/index.tsx:67
-msgid "Welcome to Hi.Events 👋"
-msgstr "Welcome to Hi.Events 👋"
+msgid "Welcome to Garba Groove 👋"
+msgstr "Welcome to Garba Groove 👋"
 
 #: src/components/routes/welcome/index.tsx:125
-msgid "Welcome to Hi.Events, {0} 👋"
-msgstr "Welcome to Hi.Events, {0} 👋"
+msgid "Welcome to Garba Groove, {0} 👋"
+msgstr "Welcome to Garba Groove, {0} 👋"
 
 #: src/components/forms/ProductForm/index.tsx:242
 msgid "What are Tiered Products?"

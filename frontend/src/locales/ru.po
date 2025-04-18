@@ -311,7 +311,7 @@ msgid "About"
 msgstr ""
 
 #: src/components/common/GlobalMenu/index.tsx:25
-#~ msgid "About hi.events"
+#~ msgid "About Garba Groove"
 #~ msgstr ""
 
 #: src/components/routes/account/ManageAccount/sections/PaymentSettings/index.tsx:211
@@ -2600,7 +2600,7 @@ msgid "Go to event homepage"
 msgstr ""
 
 #: src/components/layouts/EventHomepage/EventNotAvailable/index.tsx:53
-msgid "Go to Hi.Events"
+msgid "Go to Garba Groove"
 msgstr ""
 
 #: src/components/common/ErrorDisplay/index.tsx:64
@@ -2656,21 +2656,21 @@ msgid "Hi {0} 👋"
 msgstr ""
 
 #: src/components/routes/account/ManageAccount/sections/PaymentSettings/index.tsx:43
-msgid "Hi.Events charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
+msgid "Garba Groove charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
 msgstr ""
 
 #: src/components/modals/CreateEventModal/index.tsx:131
 #: src/components/modals/DuplicateEventModal/index.tsx:79
 #: src/components/routes/event/Settings/Sections/EventDetailsForm/index.tsx:73
-msgid "Hi.Events Conference {0}"
+msgid "Garba Groove Conference {0}"
 msgstr ""
 
 #: src/components/routes/event/Settings/Sections/LocationSettings/index.tsx:117
-msgid "Hi.Events Conference Center"
+msgid "Garba Groove Conference Center"
 msgstr ""
 
 #: src/components/layouts/AuthLayout/index.tsx:131
-msgid "hi.events logo"
+msgid "Garba Groove logo"
 msgstr ""
 
 #: src/components/common/ProductsTable/SortableProduct/index.tsx:79
@@ -4222,11 +4222,11 @@ msgstr ""
 #~ msgstr ""
 
 #: src/components/layouts/EventHomepage/Footer/index.tsx:7
-#~ msgid "Powered by <0>Hi.Events</0> 👋"
+#~ msgid "Powered by <0>Garba Groove</0> 👋"
 #~ msgstr ""
 
 #: src/components/common/EventDocumentHead/index.tsx:14
-#~ msgid "Powered By Hi.Events"
+#~ msgid "Powered By Garba Groove"
 #~ msgstr ""
 
 #: src/components/forms/StripeCheckoutForm/index.tsx:137
@@ -6303,11 +6303,11 @@ msgid "Welcome back{0} 👋"
 msgstr ""
 
 #: src/components/routes/auth/Register/index.tsx:67
-msgid "Welcome to Hi.Events 👋"
+msgid "Welcome to Garba Groove 👋"
 msgstr ""
 
 #: src/components/routes/welcome/index.tsx:125
-msgid "Welcome to Hi.Events, {0} 👋"
+msgid "Welcome to Garba Groove, {0} 👋"
 msgstr ""
 
 #: src/components/forms/ProductForm/index.tsx:242

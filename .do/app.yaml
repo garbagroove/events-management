@@ -131,7 +131,7 @@ envs:
     value: XXX
   - key: MAIL_FROM_ADDRESS
     scope: RUN_AND_BUILD_TIME
-    value: hello@hi.events
+    value: support@garbagroove.com
   - key: MAIL_FROM_NAME
     scope: RUN_AND_BUILD_TIME
     value: Hi.Events

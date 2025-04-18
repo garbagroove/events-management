@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
-"Project-Id-Version: Hi.Events\n"
+"Project-Id-Version: Garba Groove\n"
 "Language: zh-Hans\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
@@ -2377,8 +2377,8 @@ msgid "Go to event homepage"
 msgstr "前往活动主页"
 
 #: src/components/layouts/EventHomepage/EventNotAvailable/index.tsx:53
-msgid "Go to Hi.Events"
-msgstr "前往 Hi.Events"
+msgid "Go to Garba Groove"
+msgstr "前往 Garba Groove"
 
 #: src/components/common/ErrorDisplay/index.tsx:64
 msgid "Go to home page"
@@ -2433,22 +2433,22 @@ msgid "Hi {0} 👋"
 msgstr "你好 {0} 👋"
 
 #: src/components/routes/account/ManageAccount/sections/PaymentSettings/index.tsx:43
-msgid "Hi.Events charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
-msgstr "Hi.Events 收取平台费用以维护和改进我们的服务。这些费用会自动从每笔交易中扣除。"
+msgid "Garba Groove charges platform fees to maintain and improve our services. These fees are automatically deducted from each transaction."
+msgstr "Garba Groove 收取平台费用以维护和改进我们的服务。这些费用会自动从每笔交易中扣除。"
 
 #: src/components/modals/CreateEventModal/index.tsx:131
 #: src/components/modals/DuplicateEventModal/index.tsx:79
 #: src/components/routes/event/Settings/Sections/EventDetailsForm/index.tsx:73
-msgid "Hi.Events Conference {0}"
-msgstr "Hi.Events Conference {0}"
+msgid "Garba Groove Conference {0}"
+msgstr "Garba Groove Conference {0}"
 
 #: src/components/routes/event/Settings/Sections/LocationSettings/index.tsx:117
-msgid "Hi.Events Conference Center"
-msgstr "Hi.Events 会议中心"
+msgid "Garba Groove Conference Center"
+msgstr "Garba Groove 会议中心"
 
 #: src/components/layouts/AuthLayout/index.tsx:131
-msgid "hi.events logo"
-msgstr "hi.events 徽标"
+msgid "Garba Groove logo"
+msgstr "Garba Groove 徽标"
 
 #: src/components/common/ProductsTable/SortableProduct/index.tsx:79
 msgid "Hidden from public view"
@@ -5717,12 +5717,12 @@ msgid "Welcome back{0} 👋"
 msgstr "欢迎回来{0} 👋"
 
 #: src/components/routes/auth/Register/index.tsx:67
-msgid "Welcome to Hi.Events 👋"
-msgstr "欢迎来到 Hi.Events 👋"
+msgid "Welcome to Garba Groove 👋"
+msgstr "欢迎来到 Garba Groove 👋"
 
 #: src/components/routes/welcome/index.tsx:125
-msgid "Welcome to Hi.Events, {0} 👋"
-msgstr "欢迎来到 Hi.Events, {0} 👋"
+msgid "Welcome to Garba Groove, {0} 👋"
+msgstr "欢迎来到 Garba Groove, {0} 👋"
 
 #: src/components/forms/ProductForm/index.tsx:242
 msgid "What are Tiered Products?"

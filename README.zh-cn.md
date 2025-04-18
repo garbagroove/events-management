@@ -118,7 +118,7 @@ Hi.Events 旨在帮助您创建、管理和销售各种规模的活动门票。
 
 ## ❓ 常见问题
 
-有问题吗？我们的 [文档](https://hi.events/docs) 有答案。如果您找不到所需的信息，请随时通过 [hello@hi.events](mailto:hello@hi.events) 联系我们。
+有问题吗？我们的 [文档](https://hi.events/docs) 有答案。如果您找不到所需的信息，请随时通过 [support@garbagroove.com](mailto:support@garbagroove.com) 联系我们。
 
 ## 📜 许可证
 
