@@ -68,7 +68,7 @@ export const Register = () => {
                 <p>
                     <Trans>
                         Create an account or <NavLink to={'/auth/login'}>
-                        {t`Sign in`}
+                        {t`Log in`}
                     </NavLink> to get started
                     </Trans>
                 </p>
