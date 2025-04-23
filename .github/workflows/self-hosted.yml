@@ -10,19 +10,21 @@ jobs:
     
     steps:
       - name: Update local repository
-        working-directory: /Users/usman/coders-boutique/events
+        working-directory: ${{ vars.REPO_PATH }}
         run: |
           git checkout prod
           git pull origin prod
       
       - name: Build and start Docker containers
-        working-directory: /Users/usman/coders-boutique/events/docker/all-in-one
+        working-directory: ${{ vars.DOCKER_PATH }}
         run: |
-          # Stop any running containers (if needed)
-          docker-compose down || true
+          docker-compose down --volumes --remove-orphans
+
+          # Remove any existing images to force rebuild
+          docker-compose rm -f
           
-          # Build and start containers
+          # Build with no-cache to ensure fresh build
+          docker-compose build --no-cache
+          
+          # Start containers
           docker-compose up -d
-          
-          # Print running containers
-          docker ps
