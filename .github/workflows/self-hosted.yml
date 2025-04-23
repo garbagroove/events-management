@@ -10,11 +10,11 @@ jobs:
     
     steps:
       - name: Debug directory information
-          run: |
-            echo "Current directory: $(pwd)"
-            echo "REPO_PATH: ${{ vars.REPO_PATH }}"
-            ls -la ${{ vars.REPO_PATH }}
-            
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "REPO_PATH: ${{ vars.REPO_PATH }}"
+          ls -la ${{ vars.REPO_PATH }}
+
       - name: Update local repository
         working-directory: ${{ vars.REPO_PATH }}
         run: |
