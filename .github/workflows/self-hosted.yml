@@ -18,6 +18,7 @@ jobs:
       - name: Build and start Docker containers
         working-directory: ${{ vars.DOCKER_PATH }}
         run: |
+          echo "checkout path: $(pwd)"
           docker-compose down --volumes --remove-orphans
 
           # Remove any existing images to force rebuild
