@@ -2,7 +2,7 @@
 <div align="center">
 
 💖 **Found Hi.Events helpful?**  
-⭐ Please consider giving us a star to support the project!! ⭐
+⭐ Please consider giving us a star to support the project!! !⭐
 
 </div>
 
