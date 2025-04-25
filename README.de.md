@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
- Mühelos Events verwalten und Tickets online verkaufen.
+ Mühelos Events verwalten und Tickets online verkaufen
 </h3>
 
 <div align="center">
